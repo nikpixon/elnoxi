@@ -8,7 +8,11 @@ img {
     display:  flex;
     width: 70%;
 }
-h1{
+h1,h3{
     display: flex;
     color: chartreuse;
+}
+p {
+ color: cornsilk; border: cornsilk;
+    
 }
